@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.clip {
+    clip-path: polygon(100% 0, 100% 90%, 81% 100%, 0 87%, 0 0);
+}
+
+.clipFeature {
+    clip-path: polygon(0 7%, 100% 0, 100% 94%, 76% 100%, 0 93%);
+
+}
+
+.cardClip {
+    clip-path: polygon(78% 0, 100% 28%, 100% 100%, 0 100%, 0 0);
+
+}
+
+.cardClip2 {
+    clip-path: polygon(0 2%, 100% 14%, 100% 91%, 83% 97%, 57% 90%, 0 98%);
+
+}
